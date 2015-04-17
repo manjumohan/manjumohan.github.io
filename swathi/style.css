@@ -7,6 +7,8 @@ body{
     background-color: black;
 }
 
+
+
 p{
     color: white;
     font-family: 'Open Sans Condensed', sans-serif;
@@ -177,7 +179,7 @@ nav a{
     font-size: 156pt;
     text-align: center;
     line-height: 380px;
-    font-family: "Varela Round", sans-serif;
+    font-family: 'Open Sans Condensed', serif;
     background-color: rgba(255, 255, 255, .0);
     text-shadow: 0px 0px 15px rgb(119, 119, 119);
 }
@@ -243,7 +245,47 @@ div.text-section{
     float:left;
     position:relative;
     clear:none;
-    overflow:hidden;
+    overflow:auto;
+
 }
 /*synopsis - end*/
 
+/*credits - start*/
+.text-section p{
+    text-align: center;
+}
+
+#credits span{
+    color:#CC9137;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    padding-bottom: 1em;
+
+}
+
+::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;
+    background: (255, 255, 255, 0.5);
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.5);
+    -webkit-border-radius: 1ex;
+    -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+}
+/*credits - end*/
+
+/*awards - start*/
+#awards{
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+#awards span{
+    color:#CC9137;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    padding-bottom: 1em;
+
+}
+/*awards - end*/

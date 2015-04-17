@@ -1,0 +1,43 @@
+body{
+	background-color: #ecf0f1
+}
+
+h1{
+	font-family: 'Coda', cursive;
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	font-family: 'Nixie One', cursive;
+}
+
+#slogan{
+	font-style: italic;
+	font-family: 'Nixie One', cursive;
+}
+
+#small{
+	line-height: 90%;
+	font-size: 14px;
+	color: gray;
+	font-family: sans-serif;
+}
+
+img{
+	border-style: solid;
+	border-width:6px;
+	display: block;
+    margin: 0 auto;
+}
+
+div{
+ 	margin-left: auto;
+    margin-right: auto;
+    width: 275px;
+    font-family: 'Nixie One', cursive;
+}
+
+
+
+
