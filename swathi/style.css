@@ -94,7 +94,7 @@ header h1{
   display: block;
 }
 
-a:hover,
+.desktop a:hover,
 a:active,
 a:focus {
   color: #CC9137;
