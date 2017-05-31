@@ -89,8 +89,8 @@ nav a:hover, a:active, a:focus {
     display:block;
     position:absolute;
     width:100%;
-    margin-top:5%;
-    margin-left: 35%;
+    margin-top:15%;
+    margin-left: 25%;
     z-index:2;
 }
 
