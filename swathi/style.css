@@ -267,6 +267,9 @@ div.text-section{
 .text-section p{
     text-align: center;
 }
+.text-section img{
+    vertical-align: middle;   
+}
 
 #credits span{
     color:#CC9137;
