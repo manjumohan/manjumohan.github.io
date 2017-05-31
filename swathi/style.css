@@ -268,7 +268,9 @@ div.text-section{
     text-align: center;
 }
 .text-section img{
-    vertical-align: middle;   
+    
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #credits span{
