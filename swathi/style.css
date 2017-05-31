@@ -268,9 +268,8 @@ div.text-section{
     text-align: center;
 }
 .text-section img{
-    
-    margin-left: auto;
-    margin-right: auto;
+    display: block;
+    margin: auto;
 }
 
 #credits span{
